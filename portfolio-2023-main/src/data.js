@@ -46,11 +46,11 @@ export const projects = [
         // tags: ["mobile-app"],
         tags:["dashboard", "dashboard"],
     },
-    {
-        name: "The English Tea Ceremony",
-        image: p5,
-        tags: ["website"],
-    },
+    // {
+    //     name: "The English Tea Ceremony",
+    //     image: p5,
+    //     tags: ["website"],
+    // },
     {
         name: "Personal Portfolio",
         image: p6,
